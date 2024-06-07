@@ -6,7 +6,7 @@ public class Faktorial {
             return 1;
         } else {
             return n * hitungFaktorial(n - 1);
-        }
+        } 
     }
 }
 
